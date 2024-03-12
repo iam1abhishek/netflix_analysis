@@ -1,0 +1,11 @@
+genres,title_count
+['comedy'],2
+['documentation'],1
+"['comedy', 'european']",1
+"['scifi', 'action', 'crime', 'drama']",1
+"['animation', 'family', 'comedy', 'fantasy', 'drama', 'action', 'music']",1
+"['family', 'comedy', 'romance']",1
+['family'],1
+"['comedy', 'family']",1
+"['animation', 'comedy', 'family', 'scifi', 'european']",1
+"['animation', 'comedy', 'family', 'crime', 'european']",1
