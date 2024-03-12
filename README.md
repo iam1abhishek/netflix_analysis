@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 <!-- <p align="center">
+=======
+<p align="center">
+>>>>>>> 9cc2b0b0e31a83ca9910558999e8152fa6592356
   <b>Netflix Shows and Movies analysis Project</b>
 </p>
 <p align="center">
@@ -34,6 +38,7 @@ Examining movies and shows across different decades showcased significant shifts
 Age certifications played a crucial role, influencing both the average IMDB scores and the distribution of movies and shows. The analysis revealed audience preferences for specific age certifications, with TV-14 garnering the highest average score, indicating its popularity among viewers.
 
 Furthermore, exploring the most common genres in Netflix's library provided insights into viewer preferences and content distribution. Comedy emerged as the dominant genre across both movies and shows, followed by documentation and drama. Combinations of genres were also frequent, highlighting the audience's appreciation for multi-genre content.
+<<<<<<< HEAD
  -->
 
 
@@ -43,3 +48,5 @@ Furthermore, exploring the most common genres in Netflix's library provided insi
 
 
 #  kd kdfg hkgi dhgkdhf
+
+>>>>>>> 9cc2b0b0e31a83ca9910558999e8152fa6592356
